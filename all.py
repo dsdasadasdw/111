@@ -4,7 +4,7 @@ b = 2
 name2 = "Migu Digital<br>Media Co. Ltd."
 name = "Migu Digital\nMedia Co. Ltd."
 name1 = "Migu Digital Media Co. Ltd."
-pass1 = "al123456"
+pass1 = "AppleP12.com"
 p12 = "1.p12"
 prov = "2.mobileprovision"
 
