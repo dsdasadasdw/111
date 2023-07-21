@@ -1,5 +1,9 @@
 import random
+b = 2
 
+name2 = "Migu Digital<br>Media Co. Ltd."
+name = "Migu Digital\nMedia Co. Ltd."
+name1 = "Migu Digital Media Co. Ltd."
 pass1 = "AppleP12.com"
 p12 = "1.p12"
 prov = "2.mobileprovision"
@@ -28,3 +32,7 @@ DARK = "Dark.ipa"
 
 LRDosi = f"./zsign -k {p12} -p {pass1} -m {prov} -b '{id1}' -o {out1} -z 9 {LRD}"
 DARKosi = f"./zsign -k {p12} -p {pass1} -m {prov} -b '{id2}' -o {out2} -z 9 {DARK}"
+
+
+# Картинка
+name = "Migu Digital\nMedia Co. Ltd."
