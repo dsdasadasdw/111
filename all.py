@@ -6,7 +6,7 @@ name = "iPhone Distribution: HDFC Life\nInsurance Company Limited"
 name2 = "iPhone Distribution: HDFC Life<br>Insurance Company Limited"
 name1 = "iPhone Distribution: HDFC Life Insurance Company Limited"
 name4 = " HDFC Life Insurance Company Limited"
-pass1 = "TrollStore"
+pass1 = "AppleP12.com"
 
 p12 = "1.p12"
 prov = "2.mobileprovision"
